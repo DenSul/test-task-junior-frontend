@@ -23,5 +23,8 @@
     "gulp-uglify": "^3.0.0",
     "imagemin-jpeg-recompress": "^5.1.0",
     "imagemin-pngquant": "^5.1.0"
+  },
+  "dependencies": {
+    "bower": "^1.8.4"
   }
 }
