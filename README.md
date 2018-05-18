@@ -1,4 +1,5 @@
 # test-task-junior-frontend
+[![npm version](https://badge.fury.io/js/test-task.svg)](https://badge.fury.io/js/test-task)
 ## Окружение для разработки веб-проектов на Bootstrap 4
 Готовое окружение для разработки фронтенд составляющей сайтов и интерфейсов админок на Bootstrap 4.
 
